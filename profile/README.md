@@ -5,3 +5,5 @@ Guns Of Boom: https://github.com/FromRazerThemesToSubstratum/com.razerzone.theme
 Jigsaw Series Red: https://github.com/FromRazerThemesToSubstratum/com.razerzone.theme.jigsawseriesred/releases/download/github_nightly_debug/app-debug.apk
 
 Kill All Zombies: https://github.com/FromRazerThemesToSubstratum/com.razerzone.theme.killallzombies/releases/download/github_nightly_debug/app-debug.apk
+
+Jigsaw Series Gray: 
