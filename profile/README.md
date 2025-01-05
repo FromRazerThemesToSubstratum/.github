@@ -1,2 +1,3 @@
 # From Razer Theme Store To Substratum Project
 ## List Of Ported Themes
+Guns Of Boom: https://github.com/FromRazerThemesToSubstratum/com.razerzone.theme.gunsofboom/releases/download/github_nightly_debug/app-debug.apk
