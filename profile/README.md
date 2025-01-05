@@ -6,4 +6,4 @@ Jigsaw Series Red: https://github.com/FromRazerThemesToSubstratum/com.razerzone.
 
 Kill All Zombies: https://github.com/FromRazerThemesToSubstratum/com.razerzone.theme.killallzombies/releases/download/github_nightly_debug/app-debug.apk
 
-Jigsaw Series Gray: 
+Jigsaw Series Gray: https://github.com/FromRazerThemesToSubstratum/com.razerzone.theme.jigsawseriesgray/releases/download/github_nightly_debug/app-debug.apk
