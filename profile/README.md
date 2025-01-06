@@ -9,3 +9,5 @@ Kill All Zombies: https://github.com/FromRazerThemesToSubstratum/com.razerzone.t
 Jigsaw Series Gray: https://github.com/FromRazerThemesToSubstratum/com.razerzone.theme.jigsawseriesgray/releases/download/github_nightly_debug/app-debug.apk
 
 Seaside: https://github.com/FromRazerThemesToSubstratum/com.razerzone.theme.seaside/releases/download/github_nightly_debug/app-debug.apk
+
+Razer Graffiti: https://github.com/FromRazerThemesToSubstratum/com.razerzone.theme.graffiti/releases/download/github_nightly_debug/app-debug.apk
