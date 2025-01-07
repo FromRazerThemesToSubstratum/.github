@@ -11,3 +11,5 @@ Jigsaw Series Gray: https://github.com/FromRazerThemesToSubstratum/com.razerzone
 Seaside: https://github.com/FromRazerThemesToSubstratum/com.razerzone.theme.seaside/releases/download/github_nightly_debug/app-debug.apk
 
 Razer Graffiti: https://github.com/FromRazerThemesToSubstratum/com.razerzone.theme.graffiti/releases/download/github_nightly_debug/app-debug.apk
+
+Jolly Saint Nick: https://github.com/FromRazerThemesToSubstratum/com.razerzone.theme.jollysaintnick/releases/download/github_nightly_debug/app-debug.apk
