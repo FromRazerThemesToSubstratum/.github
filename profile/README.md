@@ -13,3 +13,5 @@ Seaside: https://github.com/FromRazerThemesToSubstratum/com.razerzone.theme.seas
 Razer Graffiti: https://github.com/FromRazerThemesToSubstratum/com.razerzone.theme.graffiti/releases/download/github_nightly_debug/app-debug.apk
 
 Jolly Saint Nick: https://github.com/FromRazerThemesToSubstratum/com.razerzone.theme.jollysaintnick/releases/download/github_nightly_debug/app-debug.apk
+
+Vainglory Baron: https://github.com/FromRazerThemesToSubstratum/com.razerzone.theme.vainglorybaron/releases/download/github_nightly_debug/app-debug.apk
